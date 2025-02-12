@@ -42,3 +42,9 @@ try.
 -   `-s | --speed`: Determine the speed of the tick counter (in seconds per tick).
 -   `--show-history`: Instead of clearing the screen each time we draw the board,
     display the entire history of the game in the terminal.
+
+### Pattern choosing
+
+There are some super cool configurations of the game of life that you are super
+unlikely to get by a random generator. Find a way to create some initial grids
+so that these patterns may be watched.
